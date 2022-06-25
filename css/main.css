@@ -113,13 +113,14 @@ body {
   font-weight: 700;
   display: flex;
   justify-content: space-between;
+  
 }
 
 .div-1, .div-2, .div-3 {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
-  color: #fff;
+  color: #45214A;
   line-height: 1.5em;
-  font-size: 1.6em;
+  font-size: 1em;
   background-color: #f16059;
   height: 300px;
   width: 30%;
